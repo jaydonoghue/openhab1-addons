@@ -127,9 +127,9 @@ public class EpsonProjectorDevice {
         LIVINGROOM(0x0C),
         THX(0x13),
         CINEMA(0x15),
-        CINEMA-3D(0x17),
-        DYNAMIC-3D(0x18),
-        THX-3D(0x19),
+        CINEMA3D(0x17),
+        DYNAMIC3D(0x18),
+        THX3D(0x19),
         BWCINEMA(0x20),
         ERROR(0xFF);
 
